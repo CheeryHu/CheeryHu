@@ -1,0 +1,5 @@
+高德地图官网：
+http://lbs.amap.com/api/javascript-api/example/map/hotspot
+例子base_map_show(demo).html文件时官网上的最简单的demo,可自行在本地运行看看。
+
+ps：如果要使用高德地图的api，需要申请api-key
