@@ -1,0 +1,22 @@
+由于想在本地编辑hexo博客，所以在网上搜索了一下方法。
+引用https://www.zhihu.com/question/27384681此链接中leeon的做法，感觉应该靠谱，于是准备尝试一下。
+
+“在SublimeText（已经装了livereload）上写博文，用hexo s -g在Chrome上预览，打开Chrome的livereload插件，
+只需要在编辑器保存，本地server会自动更新，博客页面随即刷新，很方便”
+
+1、下载Sublime Text.
+本来我电脑中安装了Sublime Text 2,但是livereload插件只支持Sulime Text 3,so 卸载了2，下载了3。(去官网下载即可)
+重新学习一下Sublime Text的用法也挺好，以前下在电脑里，基本没咋用过。
+
+2、下一步就是安装插件了(安装livereload插件)
+参照http://www.cnblogs.com/woodk/p/5220552.html此链接中的“Sublime3 安装LiveReload”这一步骤，使用git下载的。
+
+3、Chrome安装LiveReload(还是参考上一个链接，下载要翻墙)
+TODO(我还没下载好)
+
+ps：由于步骤2中下载插件是用git下载的，所以后续下载别的插件可能会出现“Sublime Text: Unable to find git.exe错误”
+解决这一错误参考http://jingyan.baidu.com/article/0eb457e531dbaa03f1a9059d.html此链接，亲测可用。
+
+4、下载view in brower插件
+参考http://jingyan.baidu.com/article/adc815137f9ae2f723bf73ff.html此链接
+设置快捷键，参考http://blog.csdn.net/ranmudaofa/article/details/38457215此链接
