@@ -1,2 +1,2 @@
 # CheeryHu
-CheeryHu的工作笔记
+CheeryHu的课余学习笔记
